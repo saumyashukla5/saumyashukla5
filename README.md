@@ -79,20 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saumyashukla5&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyashukla5&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyashukla5&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
