@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Saumya Shukla
-
-🚀 **Aspiring Software Engineer | AI & ML Enthusiast | Full Stack Developer**
-🎓 Computer Science Student from India 🇮🇳
-
----
 
 <h1 align="center">Hi 👋, I'm Saumya Shukla</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | AI & ML Enthusiast | Full Stack Developer</h3>
